@@ -13,7 +13,7 @@ function|syntax|execution
 `,`|`,`|Returns the response to a requested user input.
 
 Note that `?` will execute both a and b, but only one of c and d.<br>
-Note that any `,` will automatically be executed at a user-defined function, even if it wasn't necessary for the functions afterwards.
+Note that any `,` will automatically be executed at a user-defined function, even if it wasn't necessary for the functions thereafter.
 ### User-defined functions
 User-defined functions work a bit different to pre-defined functions. Instead of executing a unique operation, they are used to combine several of them. These user-defined functions can refer to functions that have been defined earlier, but also to themselves, creating a looping mechanism. The syntax is as follows:
 ```
