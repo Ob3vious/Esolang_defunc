@@ -1,0 +1,13 @@
+C:\Users\niels_000\Documents\Esolangs\defunc\obj\Debug\netcoreapp3.1\defunc.csprojAssemblyReference.cache
+C:\Users\niels_000\Documents\Esolangs\defunc\obj\Debug\netcoreapp3.1\defunc.csproj.CoreCompileInputs.cache
+C:\Users\niels_000\Documents\Esolangs\defunc\obj\Debug\netcoreapp3.1\defunc.AssemblyInfoInputs.cache
+C:\Users\niels_000\Documents\Esolangs\defunc\obj\Debug\netcoreapp3.1\defunc.AssemblyInfo.cs
+C:\Users\niels_000\Documents\Esolangs\defunc\bin\Debug\netcoreapp3.1\defunc.exe
+C:\Users\niels_000\Documents\Esolangs\defunc\bin\Debug\netcoreapp3.1\defunc.deps.json
+C:\Users\niels_000\Documents\Esolangs\defunc\bin\Debug\netcoreapp3.1\defunc.runtimeconfig.json
+C:\Users\niels_000\Documents\Esolangs\defunc\bin\Debug\netcoreapp3.1\defunc.runtimeconfig.dev.json
+C:\Users\niels_000\Documents\Esolangs\defunc\bin\Debug\netcoreapp3.1\defunc.dll
+C:\Users\niels_000\Documents\Esolangs\defunc\bin\Debug\netcoreapp3.1\defunc.pdb
+C:\Users\niels_000\Documents\Esolangs\defunc\obj\Debug\netcoreapp3.1\defunc.dll
+C:\Users\niels_000\Documents\Esolangs\defunc\obj\Debug\netcoreapp3.1\defunc.pdb
+C:\Users\niels_000\Documents\Esolangs\defunc\obj\Debug\netcoreapp3.1\defunc.genruntimeconfig.cache
